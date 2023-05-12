@@ -162,10 +162,7 @@ function App() {
         else if (exp.length===0){setSomething(something)}
         else setSomething(something+"-")
     }
-    function Back(){
-        let exp = (something)
-        setSomething(something.slice(0,-1))
-    }
+    
 
 
   return (
