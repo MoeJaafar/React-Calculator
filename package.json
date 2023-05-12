@@ -2,7 +2,7 @@
   "name": "react-calculator",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://MoeJaafar.github.io/React-Calculator"
+  "homepage": "http://MoeJaafar.github.io/React-Calculator",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -20,6 +20,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": [
